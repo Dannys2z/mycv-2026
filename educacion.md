@@ -1,19 +1,19 @@
-# Educación
+ï»¿# EducaciÃ³n
 
-## 1. Ingeniería de Software
+## 1. IngenierÃ­a de Software
 
-Formación profesional enfocada en programación, desarrollo de software y tecnología.
+FormaciÃ³n profesional enfocada en programaciÃ³n, desarrollo de software y tecnologÃ­a.
 
-Adquisición de conocimientos en bases de datos, lógica de programación y desarrollo web.
+AdquisiciÃ³n de conocimientos en bases de datos, lÃ³gica de programaciÃ³n y desarrollo web.
 
-## 2. Educación Media Superior 
+## 2. EducaciÃ³n Media Superior (Preparatoria)
 
 Estudios de nivel medio superior.
 
-Formación académica general y desarrollo de habilidades para continuar con estudios profesionales.
+FormaciÃ³n acadÃ©mica general y desarrollo de habilidades para continuar con estudios profesionales.
 
-## 3. Formación complementaria
+## 3. FormaciÃ³n complementaria
 
-Aprendizaje autodidacta en programación y herramientas tecnológicas.
+Aprendizaje autodidacta en programaciÃ³n y herramientas tecnolÃ³gicas.
 
-Interés en fortalecer conocimientos sobre desarrollo de software.
+InterÃ©s en fortalecer conocimientos sobre desarrollo de software.
