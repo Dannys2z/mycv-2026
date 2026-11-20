@@ -1,5 +1,5 @@
 # Experiencia y proyectos
 
-## Desarrollo de página web
+## Desarrollo de pÃ¡gina web
 
-Elaboración de una página web para un proyecto de venta de accesorios y desarrollo de una base de datos para una tienda.
+Elaboracion de una pagina web para un proyecto de venta de accesorios y desarrollo de una base de datos para una tienda.
