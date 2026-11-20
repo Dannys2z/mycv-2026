@@ -1,13 +1,15 @@
 # Habilidades y competencias
 
 ## Habilidades
-- Comunicación
-- Ofimática
-- Programación
+
+- Comunicacion
+- Ofimatica
+- Programacion
 
 ## Competencias
+
 - Trabajo en equipo
 - Responsabilidad
-- Organización
-- Resolución de problemas
+- Organizacion
+- Resolucion de problemas
 - Aprendizaje continuo
