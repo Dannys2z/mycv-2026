@@ -1,3 +1,3 @@
 # Certificados
 
-- Certificación en Ofimática
+- Certificacion en OfimÃ¡tica
